@@ -7,7 +7,7 @@
   <img src="https://github.com/user-attachments/assets/38e14bd1-c832-4f97-b388-2691663e87ca">
 </p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Ranveerrrrr)
+![Profile Views](https://komarev.com/ghpvc/?username=Bugatsec)
 
 I'm a passionate cybersecurity enthusiast focused on **web application security**, **bug bounty hunting**, and **real-world exploitation**.  
 I enjoy breaking things responsibly, writing about findings, and collaborating on impactful security tools & research.
@@ -15,7 +15,7 @@ I enjoy breaking things responsibly, writing about findings, and collaborating o
 
 ## 📊 GitHub Stats
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=Ranveerrrrr&background=000000&ring=00ff9c&fire=00ff9c&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00ff9c&sideLabels=00ff9c&dates=aaaaaa&stroke=00ff9c"/>
+<img src="https://streak-stats.demolab.com?user=Bugatsec&background=000000&ring=00ff9c&fire=00ff9c&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00ff9c&sideLabels=00ff9c&dates=aaaaaa&stroke=00ff9c"/>
 </p>
 
 ## 📫 Connect With Me
@@ -23,8 +23,8 @@ I enjoy breaking things responsibly, writing about findings, and collaborating o
 
 <p>
 
-<a href="https://bugatsec.dev">
-<img src="https://img.shields.io/badge/Portfolio-bugatsec.dev-22c55e?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+<a href="https://ranveer.tech">
+<img src="https://img.shields.io/badge/Portfolio-ranveer.tech-22c55e?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
 <a href="https://x.com/Bugatsec">
